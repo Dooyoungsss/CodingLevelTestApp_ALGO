@@ -1,0 +1,5 @@
+{
+  "name": "알고학원 코딩레벨테스트앱",
+  "description": "An AI-powered coding level test application designed for Korean Olympiad in Informatics (KOI) preparation. Features language selection (Python/C++), level-based assessment, an integrated IDE-like environment, and comprehensive AI performance analysis.",
+  "requestFramePermissions": []
+}
